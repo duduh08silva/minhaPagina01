@@ -1,3 +1,16 @@
 h1 {
   color: black;
 }
+body {
+  background-image: url(CristianoRonaldo.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.destaque {
+  background-color: bisque;
+  color: darkcyan;
+}
+#cabecalho {
+  font-size: 24px ;
+}
